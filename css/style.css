@@ -1,0 +1,33 @@
+:root {
+  --brand: #0d6efd;
+}
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+.hover-card:hover {
+  transform: translateY(-2px);
+  transition: .2s ease;
+}
+
+table td, table th {
+  vertical-align: middle;
+}
+
+#resumen .precio {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+/* Mejora contraste focus */
+:focus-visible {
+  outline: 3px solid var(--brand);
+  outline-offset: 2px;
+}
+
+/* Navbar link activo */
+.nav-link.active {
+  font-weight: bold;
+  color: var(--brand) !important;
+}

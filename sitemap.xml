@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:8888/terminal/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:8888/terminal/auth/login.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost:8888/terminal/admin/index.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost:8888/terminal/admin/empresas.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost:8888/terminal/admin/rutas.php</loc>
+  </url>
+</urlset>
